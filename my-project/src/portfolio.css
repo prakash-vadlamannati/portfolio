@@ -1,0 +1,188 @@
+.complete{
+    background-color: rgb(7, 4, 76);
+    height:100%;
+}
+
+.containe{
+    display:flex;
+    background-color: rgb(7, 4, 76); 
+    padding-right:150px;
+    padding-left:150px;
+    font-size:20px;
+    color:orange;
+    
+    
+}
+.about{
+    color:orange;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content:space-around;
+    align-items:center;
+    padding-top:40px;
+    background-color: rgb(7, 4, 76); 
+}
+.head{
+    width:400px;
+    color:orange;
+    
+
+}
+
+
+.image{
+    height:250px;
+    width:270px;
+    border-radius:120px;
+    color:orange;
+}
+.Mainpart{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+    padding:30px;
+    color:orange;
+    padding-top:120px;
+}
+.skill{
+    
+    display:flex;
+    flex-direction:column;
+    
+
+}
+.skill h1{
+    color:white;
+    text-align:center;
+
+    
+
+}
+
+.image1{
+    height:290px;
+    width:290px;
+    margin-right: 90px;
+    margin-bottom:20px;
+    
+}
+.head1{
+    width:700px;
+    border:3px solid black;
+    /* margin-left: 90px; */
+    padding:20px;
+    border-radius:10px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+
+}
+
+.skimg{
+    height:50px;
+    width:30px;
+}
+.js{
+    height:50px;
+    width:60px;
+}
+
+.skill-box{
+    width:90%;
+    height:600px;
+    border:3px solid black;
+    margin: 50px;
+    padding:30px;
+    border-radius:10px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+
+}
+.box{
+    display:flex;
+    justify-content:center;
+}
+.project-part{
+    color:white;
+    display:flex;
+    flex-direction: column;
+    
+    align-items:center;
+}
+.project{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    
+}
+.pimg{
+    margin:15px;
+    border-radius:15px;
+    box-shadow: 0 0 8px rgb(184, 244, 3);
+    border:3px solid rgb(235, 185, 7);
+}
+.ppim{
+    border-radius:10px;
+}
+
+.contact-box{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+
+    width:80%;
+    height:50%px;
+    border:3px solid black;
+    margin: 50px;
+    padding:35px;
+    border-radius:10px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+
+}
+
+.contact-box h1{
+  color:orange;
+  /* margin:15px; */
+
+}
+
+.contact{
+    display:flex;
+    flex-direction: column;
+    
+    color:white;
+    margin-top:10px;
+    padding:10px;
+    align-items:center;
+    
+}
+
+
+
+.cont{
+    display:flex;
+    margin:10px;
+
+    
+}
+.cont p{
+    margin-left:10px;
+    
+}
+/* .icons{
+
+    margin:10px;
+} */
+.icons svg{
+
+    margin:10px;
+}
+.inp{
+    width:200%;
+}
+.form{
+    flex-wrap:wrap;
+    padding:30px;
+    margin-right:90px;
+}
+.form1{
+    padding:30px;
+    margin-right:20px;
+}
