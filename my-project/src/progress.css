@@ -19,7 +19,7 @@
   
   .progress {
     height: 100%;
-    background: linear-gradient(90deg, #00f0ff, #00d8ff);
+    background: linear-gradient(90deg, #dba00b, #e2b00c);
     border-radius: 5px;
     box-shadow: 0 0 10px #00d8ff, 0 0 20px #00d8ff;
   }

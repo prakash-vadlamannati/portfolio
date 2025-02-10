@@ -14,19 +14,19 @@ const SkillBars = () => {
   return (
     <div className="skill-box">
        <img src={htc} className="skimg"/>
-      <ProgressBar label="HTML 85%" percentage={85} />
+      <ProgressBar label="HTML 90%" percentage={85} />
       <img src={css} className="skimg"/>
       
       
-      <ProgressBar label="CSS 85%" percentage={85} />
+      <ProgressBar label="CSS 90%" percentage={85} />
       <img src={js} className="js"/>
-      <ProgressBar label="JavaScript 80%" percentage={80} />
+      <ProgressBar label="JavaScript 90%" percentage={80} />
       <img src={react} className="js"/>
       
-      <ProgressBar label="React 80%" percentage={80} />
+      <ProgressBar label="React 90%" percentage={80} />
       <img src={sql} className="js"/>
       
-      <ProgressBar label="SQL 85%" percentage={85} />
+      <ProgressBar label="SQL 90%" percentage={85} />
     
     
     
